@@ -723,6 +723,25 @@ footer{
   color:#c3c3c3;
 }
 
+/*
+**************************
+ABOUT US & MAP
+**************************
+*/
+
+#contact-direction{
+  text-decoration: none !important;
+  border-bottom: none;
+  color: black;
+}
+
+#map{
+  margin-top: 150px;
+  width: 100%;
+  height: 500px;
+}
+
+
 
 /*
 **************************
